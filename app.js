@@ -183,7 +183,7 @@ initializeShip = () => {
 		x: 0,
 		y: 0,
 		img: new Image(),
-		speed: 5, 
+		speed: 10, 
 		alive: true, 
 		missiles: 50, 
 		bombs: 1, 

@@ -23,3 +23,4 @@ I've gained more of an appreciation for the strengths of JavaScript.  I still th
 - Add more comments, run a linter, refactor for better readability
 - Backend with a high score database
 - A menu to access high scores, wave select, and other settings
+# mink_killer
